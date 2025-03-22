@@ -25,7 +25,7 @@
   "type": "module",
   "module": "dist/index.mjs",
   "peerDependencies": {
-    "aframe": "github:eyesnareinc/aframe/tree/hubs/master",
+    "aframe": "github:eyesnareinc/aframe#hubs/master",
     "bitecs": "github:eyesnareinc/bitECS#master",
     "react": "^18.2.0",
     "three": "github:eyesnareinc/three.js#hubs/master",
